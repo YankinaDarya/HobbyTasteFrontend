@@ -1,0 +1,13 @@
+.footer {
+    min-height: 100px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    /*box-sizing: border-box;*/
+    padding: 10px;
+    font-size: 16px;
+    display: flex;
+    position: relative;
+    /*top: 900px;*/
+    z-index: 20;
+    height: 60px;
+}
